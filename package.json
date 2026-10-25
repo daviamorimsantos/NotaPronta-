@@ -1,0 +1,8 @@
+{
+  "name": "notapronta-interativo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plataforma de apresentações escolares interativas com geração assistida por IA",
+  "engines": { "node": ">=20" }
+}
